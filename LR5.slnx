@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Console/Console.csproj" />
+  <Project Path="Task1/Task1.csproj" />
+  <Project Path="Task1Console/Task1Console.csproj" />
+  <Project Path="Task1WF/Task1WF.csproj" />
+  <Project Path="Task2/Task2.csproj" />
+  <Project Path="Task2Console/Task2Console.csproj" />
+  <Project Path="Task2WF/Task2WF.csproj" />
+  <Project Path="Task3/Task3.csproj" />
+  <Project Path="Task3Console/Task3Console.csproj" />
+  <Project Path="Task3WF/Task3WF.csproj" />
+  <Project Path="WF/WFUI.csproj" />
+</Solution>
